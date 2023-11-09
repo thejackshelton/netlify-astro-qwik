@@ -1,6 +1,6 @@
 import * as adapter from '@astrojs/netlify/netlify-functions.js';
 import { renderers } from './renderers.mjs';
-import { manifest } from './manifest_86cb0034.mjs';
+import { manifest } from './manifest_13b652eb.mjs';
 import './server.mjs';
 import './chunks/pages/index_9180299c.mjs';
 import './chunks/astro_24912e67.mjs';
